@@ -2,5 +2,3 @@ datasciencecoursera
 ===================
 
 Course Project
-
-sss
